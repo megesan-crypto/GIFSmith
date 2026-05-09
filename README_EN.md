@@ -20,6 +20,12 @@ everything you need for GIF creation in one tool.
 -Preview optimized result  
 -Estimated file size (high accuracy)  
 
+🖼Screenshots  
+This screen allows you to load a video, set the trimming range, FPS, and output width, and generate a GIF.  
+<img src="assets/GIFSmith_GIFConversion.png" width="600">  
+This screen lets you optimize an existing GIF by adjusting color count, compression level, width, and lossy settings.  
+<img src="assets/GIFSmith_GIFOptimization.png" width="600"> 
+
 📦 Required Files  
 Place the following executables in the same folder as GIFSmith.exe:  
 -ffmpeg.exe — Extract frames from video  
