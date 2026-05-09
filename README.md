@@ -20,6 +20,12 @@ GIF 作成に必要な機能をひとまとめにしています。
 ・プレビュー表示  
 ・推定ファイルサイズの算出（高精度）  
 
+🖼スクリーンショット  
+動画ファイルを読み込み、トリミング範囲・FPS・幅を設定して GIF を生成する画面です。  
+<img src="assets/GIFSmith_GIFConversion.png" width="600">  
+既存の GIF を読み込み、色数・圧縮レベル・幅・Lossy などを調整して軽量化する画面です。  
+<img src="assets/GIFSmith_GIFOptimization.png" width="600"> 
+
 📦 必要ファイル
 GIFSmith.exe の動作には、以下 3 つの exe が同じフォルダに必要です。  
 ダウンロードして GIFSmith.exe と同じフォルダに置いてください。  
@@ -50,6 +56,7 @@ GIFSmith/
 　GIF を選択  
 　圧縮率やサイズを設定  
 　「最適化して保存」ボタンを押す  
+ 
 
 🔧 動作環境  
 Windows 10 / 11  
